@@ -14,7 +14,7 @@ Springboot Back End Proyecto Integrador
     ```
 2. **Build the project**:
     ```sh
-    ./gradlew bootRun
+    ./gradlew clean build
     ```
 3. **Run the application:**:
     ```sh
